@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdocumentation=self.webpackChunkdocumentation||[]).push([[687],{3824:function(o){o.exports=JSON.parse('{"allTagsPath":"/lodge-docs/blog/tags","slug":"hola","name":"hola","count":1,"permalink":"/lodge-docs/blog/tags/hola"}')}}]);
