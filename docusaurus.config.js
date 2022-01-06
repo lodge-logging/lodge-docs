@@ -6,12 +6,13 @@ module.exports = {
   title: 'Lodge',
   tagline: 'Open source self-managed logging observability framework',
   url: 'https://lodge-logging.github.io',
-  baseUrl: '/docs/',
+  baseUrl: '/lodge-docs/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/Lodge_Favicon.ico',
   organizationName: 'lodge-logging', // Usually your GitHub org/user name.
   projectName: 'lodge-docs', // Usually your repo name.
+  trailingSlash: false,
   themeConfig: {
     navbar: {
       title: 'Lodge',
